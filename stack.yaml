@@ -1,0 +1,4 @@
+resolver: lts-11.14
+extra-deps:
+  - effect-monad-0.8.1.0
+  - type-level-sets-0.8.7.0
